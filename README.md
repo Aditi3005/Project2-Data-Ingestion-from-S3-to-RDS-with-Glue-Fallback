@@ -149,5 +149,8 @@ Step 3: Data Insertion into Amazon RDS
 
   
 
+  ⭐ Key Highlight
   
+
+This project implements a fault-tolerant data pipeline with automatic fallback handling, ensuring data availability even when the primary database fails.
 
