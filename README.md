@@ -1,4 +1,6 @@
-# Project2-Data-Ingestion-from-S3-to-RDS-with-Glue-Fallback
+# Project2
+AWS Data Ingestion Pipeline (S3 → RDS with Glue Fallback)
+
 📌 Overview
 
 This project implements a fault-tolerant data ingestion pipeline using AWS services.  
